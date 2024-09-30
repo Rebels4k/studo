@@ -1,6 +1,6 @@
 {
   "dataVersion":"1.0",
-  "password":"none",
+  "password":false,
   "mensajeInicio":"Hola, bienvenido.",
   "textosRandoms":["bienvenido", "textos de prueba", "creador:Nelson Flores", "Studo APP"]
 }
